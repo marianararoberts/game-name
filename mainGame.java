@@ -38,7 +38,6 @@ public class mainGame extends Application {
     }
     @Override
     public void start(Stage window) throws Exception {
-        
-
+        Character player = new Character();
     }
 }
